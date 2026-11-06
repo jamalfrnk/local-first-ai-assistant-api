@@ -1,16 +1,20 @@
 # Build a Local-First AI Assistant API
 
+[![Buy on Gumroad — $99](https://img.shields.io/badge/Buy_on_Gumroad-$99-00D4A0?style=for-the-badge&logo=gumroad&logoColor=white)](https://jjonesai.gumroad.com/l/hqoiqi)
+[![Course outline](https://img.shields.io/badge/Outline-COURSE.md-0B0F14?style=for-the-badge&logo=markdown&logoColor=00D4A0)](./COURSE.md)
+[![J Jones AI](https://img.shields.io/badge/J_Jones_AI-jjones.ai-0B0F14?style=for-the-badge)](https://jjones.ai)
+
 **Your AI models can change. Your memory shouldn’t.**
 
 Self-paced course from [J Jones AI](https://jjones.ai) on building a **local-first AI assistant API** with Python and FastAPI — your data stays on your machine, with human-in-the-loop approval before anything sensitive leaves your control.
 
 ## Get the full course
 
-Purchase and download on Gumroad:
-
 **[Buy on Gumroad — $99](https://jjonesai.gumroad.com/l/hqoiqi)**
 
-Includes the lessons, labs, and sample project code used in the course. This public repo is a landing page only — it does **not** contain the paid materials.
+Includes the lessons, labs, and sample project code. This public repo is a landing page only — it does **not** contain the paid materials.
+
+See the public module map: **[COURSE.md](./COURSE.md)**
 
 ## What you’ll learn
 
